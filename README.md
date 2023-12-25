@@ -2,3 +2,7 @@ I performed sentiment analysis on coronavirus-related tweets from a Kaggle datas
 
 Dataset link: https://www.kaggle.com/datasets/datatattle/covid-19-nlp-text-classification/data
 
+Code Prepared by:
+Md. Injamul Haque
+Dept. of CSE
+
